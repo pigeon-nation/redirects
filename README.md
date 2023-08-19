@@ -1,2 +1,3 @@
-# pigeonnation.github.io
-The website for me and The FireBird Project.
+`pigeon-nation.github.io/redirects`
+`./gh/`
+`./gh/firebird`
