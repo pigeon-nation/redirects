@@ -1,0 +1,1 @@
+[duckduck](https://duckduckgo.com/)
